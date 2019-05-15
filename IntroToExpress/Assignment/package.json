@@ -1,0 +1,14 @@
+{
+  "name": "assignment1.json",
+  "version": "1.0.0",
+  "description": "First Express Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LSG",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
